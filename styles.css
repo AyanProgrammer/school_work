@@ -1,0 +1,11 @@
+body {
+    background: azure;
+    font-family: arial;
+    text-align: center;
+}
+.head {
+    border: solid silver 1px;
+}
+.body {
+    border: solid silver 1px;
+}
